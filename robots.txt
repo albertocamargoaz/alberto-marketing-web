@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://alberto.marketing/sitemap.xml
