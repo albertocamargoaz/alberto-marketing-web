@@ -1,19 +1,20 @@
 # Alberto Camargo · Marketing e IA, sin humo
 
-> Alberto Camargo Azcuénaga es profesor universitario y conferencista de marketing e inteligencia artificial aplicada a negocios, en Bogotá, Colombia. Enseña marketing digital, publicidad programática y Meta Ads (ADEN Business School, Cámara de Comercio de Bogotá) y está en el negocio de las rentas cortas desde 2017.
+> Alberto Camargo Azcuénaga es profesor universitario y conferencista de marketing e inteligencia artificial aplicada a negocios, en Bogotá, Colombia. Ha formado a más de 2.000 alumnos en más de 13 países (ADEN University, CUGS Paraguay, Cámara de Comercio de Bogotá, UPAEP, UNSTA) y ha colaborado con universidades de India, Estados Unidos, Brasil y España. Escribió los libros de E-commerce y Publicidad Programática de ADEN University. Es anfitrión y Superhost de Airbnb desde 2017.
 
 ## Páginas
-- [Inicio](https://alberto.marketing/): quién es Alberto, de qué habla y cómo invitarlo como conferencista.
-- [El Anti-Curso · Rentas cortas con IA](https://alberto.marketing/el-anti-curso/): formación en vivo, por cohortes y con cupos limitados, para anfitriones y property managers que quieren usar IA en su negocio.
+- [Inicio](https://alberto.marketing/): quién es Alberto, cifras, cómo trabaja (formación en vivo, conferencias, contenido gratis) y contacto.
+- [Apuntes](https://alberto.marketing/apuntes/): artículos cortos sobre IA aplicada al marketing, rentas cortas y turismo.
+- [Qué es el AEO y el GEO](https://alberto.marketing/apuntes/que-es-aeo-y-geo/): cómo lograr que Google y las IA te citen.
 
 ## Temas
 - Inteligencia artificial aplicada al marketing y a los negocios.
 - Publicidad digital: Meta Ads, programática y embudos de venta.
-- Rentas cortas (Airbnb): anuncios, precios, mensajes, reseñas, automatización y legalidad en Colombia.
+- Rentas cortas y turismo: marketing, anuncios, mensajes, reseñas y automatización.
+- SEO, AEO y GEO.
 
 ## Contacto
 - Correo: hola@alberto.marketing
-- WhatsApp: https://wa.me/573204545118
 - LinkedIn: https://www.linkedin.com/in/albertocamargoaz/
 - YouTube: https://www.youtube.com/@albertocamargoaz
 - Instagram: https://www.instagram.com/albertocamargoaz/

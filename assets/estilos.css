@@ -88,3 +88,40 @@ details p{margin-top:12px;color:var(--gris)}
 
 /* WhatsApp flotante */
 .wa{position:fixed;right:18px;bottom:18px;z-index:20;background:#1F8F4E;color:#fff;border-radius:999px;padding:12px 18px;font-weight:700;font-size:15px;text-decoration:none;box-shadow:0 6px 20px rgba(0,0,0,.18)}
+
+/* Cifras y franja de confianza */
+.cifras-sec{padding:56px 0;border-bottom:1px solid var(--linea)}
+.cifras{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:28px 20px}
+.cifra b{display:block;font-size:clamp(34px,4.4vw,48px);font-weight:800;color:var(--vino);line-height:1;letter-spacing:-.02em}
+.cifra span{display:block;margin-top:8px;font-size:15px;color:var(--gris);line-height:1.4}
+.confianza{margin-top:40px;font-weight:600;max-width:60ch}
+.logos{list-style:none;padding:0;margin:18px 0 0;display:flex;flex-wrap:wrap;gap:10px}
+.logos li{font-size:14px;font-weight:600;color:var(--gris);border:1px solid var(--linea);border-radius:999px;padding:7px 14px}
+
+/* Foto */
+.foto img{width:min(340px,100%);margin:0 auto;border-radius:12px;background:var(--ink)}
+
+/* Tarjetas con enlace */
+.tarjeta a{font-weight:700;text-decoration:none;margin-top:6px}
+.tarjeta a::after{content:" →"}
+.tarjeta.destacada{border-color:var(--vino);border-width:2px}
+.angosto{max-width:760px}
+
+/* Apuntes (artículos) */
+.articulos{display:grid;gap:16px;margin-top:36px}
+.articulo-item{display:block;border:1px solid var(--linea);border-radius:8px;padding:24px;text-decoration:none;color:var(--ink)}
+.articulo-item:hover{border-color:var(--vino)}
+.articulo-item small{color:var(--gris);font-size:14px}
+.articulo-item h3{margin:6px 0 8px}
+.articulo{max-width:720px;margin:0 auto;padding:64px 20px 88px}
+.articulo .migas{font-size:14px;color:var(--gris);margin-bottom:24px}
+.articulo .migas a{color:var(--gris)}
+.articulo h1{font-size:clamp(30px,4.6vw,46px)}
+.articulo .meta{margin-top:16px;font-size:14px;color:var(--gris)}
+.articulo .resumen{margin-top:28px;padding:20px 22px;background:var(--hueso);border-left:4px solid var(--vino);border-radius:6px;font-size:18px}
+.articulo h2{font-size:clamp(23px,3vw,30px);margin-top:44px}
+.articulo p,.articulo ul,.articulo ol{margin-top:16px}
+.articulo li{margin-top:6px}
+.autor{display:flex;gap:16px;align-items:center;margin-top:48px;padding:20px;border:1px solid var(--linea);border-radius:8px}
+.autor img{width:64px;height:64px;border-radius:50%;background:var(--ink);flex:none}
+.autor p{margin:0;font-size:15px;color:var(--gris)}
