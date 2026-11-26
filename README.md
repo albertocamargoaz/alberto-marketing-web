@@ -14,3 +14,4 @@ Sitio estático (HTML + CSS, sin WordPress) publicado gratis en Cloudflare Pages
 - Archivo `<clave>.txt` en la raíz: clave de IndexNow (Bing, Yandex). No borrarlo.
 - `_headers`: seguridad y caché de `/assets/`. Web Analytics de Cloudflare activado (sin cookies).
 - Al agregar páginas: sumarlas a `sitemap.xml` (con `lastmod`) y a `llms.txt`.
+- `functions/_middleware.js` + `_routes.json` (26 nov 2026): responden 410 a las URLs basura del sitio anterior hackeado (`/?prizes/...`, `/items/...`, `/category/...`) para que Google las borre. No bloquearlas en `robots.txt` (Google necesita ver el 410).
